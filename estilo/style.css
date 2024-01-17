@@ -28,3 +28,10 @@ main{
     background:url('../imagens/frame-iphone.png') no-repeat;
     background-attachment: fixed;
 }
+#tela-home{
+    position: relative;
+    margin-top: 79px;
+    margin-left: 22px;
+    height: 473px;
+    width: 268px;
+}
