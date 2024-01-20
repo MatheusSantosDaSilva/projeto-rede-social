@@ -14,11 +14,12 @@ body{
     background-size: cover;
     background-attachment: fixed;
     height: auto;
-    width: auto;
+    max-width: 100%;
 }
 main{
     position: relative;
     height: 100vh;
+    max-width: 50%;
 }
 #cll{
     position: absolute;
