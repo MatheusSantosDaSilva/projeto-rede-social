@@ -13,6 +13,8 @@ body{
     background:url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
+    height: auto;
+    width: auto;
 }
 main{
     position: relative;
@@ -53,4 +55,8 @@ img:hover{
     box-sizing: border-box;
     transition: 0.3s;
     transform: translate(-5px, -5px);
+}
+footer{
+    text-align: center;
+    color: white;
 }
