@@ -13,6 +13,7 @@ body{
     position: absolute;
     background:url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
+    background-attachment: scroll;
     height: auto;
     max-width: 100%;
 }
