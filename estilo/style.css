@@ -41,6 +41,7 @@ main{
 #redes{
     text-align: right;
     margin-right: 10px;
+    max-width:97%;
 }
  img{
     height: 60px;
