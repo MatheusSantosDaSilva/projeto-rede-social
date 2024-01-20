@@ -10,16 +10,15 @@ body, html{
     height: 100vh;
 }
 body{
+    position: absolute;
     background:url('../imagens/fundo-madeira.jpg') no-repeat top center;
     background-size: cover;
-    background-attachment: fixed;
     height: auto;
     max-width: 100%;
 }
 main{
     position: relative;
     height: 100vh;
-    max-width: 50%;
 }
 #cll{
     position: absolute;
